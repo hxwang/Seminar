@@ -1,7 +1,7 @@
 Mission-oriented Resilience through Risk-sensitive Process and Model-based Execution
 ---
 
-- by David Wang, MIT
+- by *David Wang*, *Eriz Karpas*,  *MIT*
 
 ### Intro
 - Planning for uncertainty, planning with change constraints
@@ -25,6 +25,30 @@ Mission-oriented Resilience through Risk-sensitive Process and Model-based Execu
 - Non-temporal landmark
 - Example Problem: Temporal Landmarks
 	- The goal must hold from some point tg until the end
-	
  
+### Discovering the Temporal Landmarks
+- Given a set of temporal landmarks, we can derive more temporal landmarks by reasoning over the problem description
+- Trivial PDDL Temporal Landmarks
+	- every action must have a start and an end
+	- every event must have its condition hold when it happens
+- Trivial TCA temporal landmarks
+
+### Heuristic Based on Temporal Landmarks
+- It is possible to obtain a set of actions which must occur from the landmarks, and
+	- count them or sum their costs(as in ...)
 	
+### Extending Execution Monitoring
+- Propagates temporal constraints to determine execution time
+- monitor causal links to check feasibility of execution
+
+### Resource Allocation for Vehicle Routing
+- Problem: given a set of customers, and a fleet of vehicles to make deliveries, find a set of routes that services all customers at minimum costs
+	- Planning implicitly allocates resource to achieve goals
+	- Knowing resource limits can be critical to achieving a feasible plan 
+	- e.g., it may be impossible to transfer a large video in-time
+	- Negotiating with constraints
+	
+### Question
+- similar to scheduling problem
+- can be applied for insurance?
+- can the goal really be achieved, or only with probability 

@@ -2,7 +2,7 @@
 ---
 
 - SOUND: Safty On Untrusted Network Devices, by *Jothy Rosenberg*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/2_SOUND_Safty-On-Untrusted-Nework-Devices.md)
-- [Modular Research-based Composably Trustworthy Mission Oriented Resilient Clouds (MRC2)](), by **, [[Summary]]()
+- Modular Research-based Composably Trustworthy Mission Oriented Resilient Clouds (MRC2), by *Simon Moore*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/3_Modular-Research-based-Composably-Trustworthy-Mission-oriented-Resilient-Clouds-MRC2.md)
 - [Toward Intrusion Tolerant Clouds](), by **, [[Summary]]()
 - [Mission Oriented Resilience through Sensitive Process Process and Model-based Execution](), by **, [[Summary]]()
 - [Allocation of Missions Built on Resource Optimization(AMBORO)](), by **, [[Summart]]()

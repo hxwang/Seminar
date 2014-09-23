@@ -20,7 +20,7 @@ STRATUS: Strategic and Tactical Resiliency Against Threats to Ubiquitous Systems
 	
 ### SPAR: simple probabilistic Attack Recognizer
 - Alternative approach to plan-based threat recognition
-- calculate the probability of an attack on every resource in the network
+- calculate **the probability of an attack on every resource in the network**
 	- these probability are sensitive to the utility of those ...
 
 ### MFID: Sensor Fusion for STRATUS
@@ -28,6 +28,6 @@ STRATUS: Strategic and Tactical Resiliency Against Threats to Ubiquitous Systems
 - Three mechanisms implemented in MFID
 	- Retrospection, go back and find evidence that now seems relevant
 	- Actively engage sensor exercises that are too expensive to use indiscriminately
-	- Gisting--trigger a complex hypothesis, to guide gathering of relevant information
+	- *Gisting*--trigger a complex hypothesis, to guide gathering of relevant information
 
 	

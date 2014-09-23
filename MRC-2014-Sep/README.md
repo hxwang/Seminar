@@ -1,7 +1,6 @@
 2014 MRC Meeting
 ---
 
-- [Opening-Remarkds](), by**, [[Summary]]()
 - [SOUND: Safty On Untrusted Network Devices](), by**,[[Summary]]()
 - [Modular Research-based Composably Trustworthy Mission Oriented Resilient Clouds (MRC2)](), by **, [[Summary]]()
 - [Toward Intrusion Tolerant Clouds](), by **, [[Summary]]()

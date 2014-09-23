@@ -1,7 +1,7 @@
 2014 MRC Meeting
 ---
 
-- SOUND: Safty On Untrusted Network Devices, by*Jothy Rosenberg*,[[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/2_SOUND_Safty-On-Untrusted-Nework-Devices.md)
+- SOUND: Safty On Untrusted Network Devices, by *Jothy Rosenberg*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/2_SOUND_Safty-On-Untrusted-Nework-Devices.md)
 - [Modular Research-based Composably Trustworthy Mission Oriented Resilient Clouds (MRC2)](), by **, [[Summary]]()
 - [Toward Intrusion Tolerant Clouds](), by **, [[Summary]]()
 - [Mission Oriented Resilience through Sensitive Process Process and Model-based Execution](), by **, [[Summary]]()

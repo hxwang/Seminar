@@ -51,5 +51,5 @@ SOUND: Safety On Untrusted Network Devices
 	- System allow or deny service
 	- Service table, e.g., block IP address
 - Detection Conflicts: verification formula
-- [Reference](http://rwd.rdockins.name/suppl/)
+- [SUPPL Reference](http://rwd.rdockins.name/suppl/)
 	

@@ -4,7 +4,6 @@ Towards Intrusion Tolerant Clouds
 - by Yair Amir, John Hopkins University
 - [Project Webiste](http://www.dsn.jhu.edu/funding/resilient_clouds/)
 
-### Intrusion Tolerant Clouds Infrastructure
 
 ### Intrusion Tolerant Replication
 - proactive recovery and diversity for Prime

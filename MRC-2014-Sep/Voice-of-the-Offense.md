@@ -3,10 +3,11 @@ Voice of the Ofference(VO)
 
 - by *Aaron Temin*, MITRE Corporation
 
-### Intro
 
-### Result
+### Goal
 - quatitatvely measure resillience
+	- the risk considers all impacts from all possible cyber attack efects against each cyber resource
+- using this toll, this can be use to "right" CRT's given the systems mission context
 
 ### BackGround
 - There are many definitions for resillience out there
@@ -33,15 +34,11 @@ Voice of the Ofference(VO)
 - different CRT's are more suited to combating different cyver attack effects
 - but CRTs often apply only to specific system levels
 
-### Evaluating Mission Resillience 
-
-
 ### Mission Modeling: cyber mision impact assessment(CIMIA)
 - mission levels modeling using simulation of a process model
 - network diagram
 - ICT process model
 - [Paper: computing the impact of cyver attack of complex missions](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5929055&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5929055)
-
 - Custom Software allows the mission impact of cyber incidents to be esimated
 - Personal recovery mission overview using combat survival Evader locator(CSEL)
 
@@ -50,19 +47,13 @@ Voice of the Ofference(VO)
 	- actively flows, control flows, data flows
 	- which mission resource platform 
 - PR locate
-- targus
 - Combat survival Evader locator
-
-### Process Model of CSEL Location Options
-- Locate via CSEL Process model
-
-
-### Evaluating the Benefits of CRTs in this Mission Context
 
 ### Integration
 - MISS can move the server if DMSS detects an unauthorized access attempt
  
-
 ### Question
 - how to evaluate
 - with the esimation, then how to make the protect more efficient, game theory may could be applied
+- targus
+- is there some uncertainty associate with this model?

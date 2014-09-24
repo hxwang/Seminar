@@ -8,7 +8,7 @@
 - Allocation of Missions Built on Resource Optimization(AMBORO), by *Mark Boddy*, [[Summart]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Allocation-of-Missons-Built-on-Resource-Optimization-AMBORO.md)
 - Cloud Intrusion Detection and Repair, by *Stelios Sidiroglou-Doukos*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Cloud-Intrusion-Detection-and-Repair.md)
 - STRATUS: Strategic and Tactical Resiliency Against Threats to Ubiquitous System, by *Mark Burstein*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/STRATUS_Strategic-and-Tactical-Resiliency-Against-Threats-to-Ubiquitous-Systems.md)
-- Resilient Secure Communications, by*Bob Balzer*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/8_Resilient-Secure-Communications.md)
+- Resilient Secure Communications, by*Bob Balzer*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Resilient-Secure-Communications.md)
 - [Using a Resilient Real-time Cloud Computing Platform to Monitor and Control the Smart Bulk Power Transmission Grid in the US NorthEast](), by **, [[Summary]]
 - [MEERKATS: Maintaining Enterprise Resiliency via Kaleidoscopic Adaption and Transformation of Software Services](), by **, [[Summary]]
 - [Cyclone Dynamic Virtualization for Cloud Security](), by **, [[Summary]]

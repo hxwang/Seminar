@@ -43,4 +43,26 @@ Voice of the Ofference(VO)
 - [Paper: computing the impact of cyver attack of complex missions](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5929055&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5929055)
 
 - Custom Software allows the mission impact of cyber incidents to be esimated
+- Personal recovery mission overview using combat survival Evader locator(CSEL)
 
+### Top Level View of Process Model of PR Mission
+- process model descrption captures
+	- actively flows, control flows, data flows
+	- which mission resource platform 
+- PR locate
+- targus
+- Combat survival Evader locator
+
+### Process Model of CSEL Location Options
+- Locate via CSEL Process model
+
+
+### Evaluating the Benefits of CRTs in this Mission Context
+
+### Integration
+- MISS can move the server if DMSS detects an unauthorized access attempt
+ 
+
+### Question
+- how to evaluate
+- with the esimation, then how to make the protect more efficient, game theory may could be applied

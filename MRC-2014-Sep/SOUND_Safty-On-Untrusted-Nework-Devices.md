@@ -35,7 +35,7 @@ SOUND: Safety On Untrusted Network Devices
 - Challenge
 	- Specifying network policies is hard
 	- Complex, ...
-- Exiting tool are poor
+- Existing tools are poor
 	- Primitive user-driven configuration methods
 	- Usually limited to static configuration 
 	- Must often fall back to ad-hoc coding

@@ -1,6 +1,7 @@
 ﻿Using a resilient real-time cloud computing platform to monitor and control the smart bulk power transmission grid in the US northeast 
 ---
 
+- by *Ken Birman*, Cornell University
 
 ### Demand
 - a new security model supporting local control

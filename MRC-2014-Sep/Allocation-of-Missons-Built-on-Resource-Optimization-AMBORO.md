@@ -1,7 +1,7 @@
 Allocation of Missions Built on Resource Optimization(AMBORO)
 ---
 
-by *Mark Boddy, Adventium Labs*
+- by *Mark Boddy, Adventium Labs*
 
 ### Structure
 - Mission Model

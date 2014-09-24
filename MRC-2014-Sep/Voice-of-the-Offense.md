@@ -55,5 +55,4 @@ Voice of the Ofference(VO)
 ### Question
 - how to evaluate
 - with the esimation, then how to make the protect more efficient, game theory may could be applied
-- targus
 - is there some uncertainty associate with this model?

@@ -51,4 +51,11 @@ Mission-oriented Resilience through Risk-sensitive Process and Model-based Execu
 ### Question
 - similar to scheduling problem
 - can be applied for insurance?
-- can the goal really be achieved, or only with probability 
+- can the goal really be achieved, or only with probability
+- using the landmark, does that mean the big problems have been divided into multiple sub problems?
+- what technique has been used to solve this problem
+
+
+### Extension
+- can the negotiate process be used in green data center
+	- negotiate to decide whether still want to finish the taks?? negotiate about the quality?

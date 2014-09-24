@@ -1,4 +1,4 @@
-MEERKATS
+MEERKATS-Maintaining EnterprisE Resiliency via Kaleidoscopic Adaption & Transformation of Software Services
 ---
 
 - by *Roxana Geambasy*, Columbia University

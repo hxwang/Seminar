@@ -9,12 +9,12 @@
 - **Cloud Intrusion Detection and Repair**, by *Stelios Sidiroglou-Doukos*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Cloud-Intrusion-Detection-and-Repair.md)
 - **STRATUS: Strategic and Tactical Resiliency Against Threats to Ubiquitous System**, by *Mark Burstein*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/STRATUS_Strategic-and-Tactical-Resiliency-Against-Threats-to-Ubiquitous-Systems.md)
 - **Resilient Secure Communications**, by*Bob Balzer*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Resilient-Secure-Communications.md)
-- **Using a Resilient Real-time Cloud Computing Platform to Monitor and Control the Smart Bulk Power Transmission Grid in the US NorthEast**, by **, [[Summary]]
-- **MEERKATS: Maintaining Enterprise Resiliency via Kaleidoscopic Adaption and Transformation of Software Services**, by **, [[Summary]]
-- **Cyclone Dynamic Virtualization for Cloud Security**, by **, [[Summary]]
-- **Resilient Diffusive Clouds**, by **, [[Summary]]()
-- **Voice of the Offence**, by **, [[Summary]]()
-- **Autonomous Collaborative Control for Resilient Cyber Defense(ACCIRD)**, by **, [[Summary]]()
-- **Scenarios for Mission Assurance in the Clouds**, by **, [[Summary]]()
-- **Cyber Network Defense Thrusts Tested at the JIOR**, by **, [[Summary]]()
-- **Programming Manager's Closing Remarks**, by **, [[Summary]]()
+- **Using a Resilient Real-time Cloud Computing Platform to Monitor and Control the Smart Bulk Power Transmission Grid in the US NorthEast**, by *Ken Birman*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Using-a-Resilient-real-time-cloud-computing-platform-to-Monitor-and-Control-the-Smart-Bulk-Power-Transmisson-Grid-in-The-US-NorthEast.md)
+- **MEERKATS: Maintaining Enterprise Resiliency via Kaleidoscopic Adaption and Transformation of Software Services**, by *Roxana Geambasy*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/MEERKATS_Maintaning-Enterprise-Resiliency-via-Kaleidoscopic-Adaption-and-Transformation-of-Software-Services.md)
+- **Cyclone Dynamic Virtualization for Cloud Security**, by *Matt Caesar*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Cyclone_Dynamic-Virtualization-for-Cloud-Security.md)
+- **Resilient Diffusive Clouds**, by *Steve Taylor*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Resilient-Diffusive-Clouds.md)
+- **Voice of the Offence**, by *Aaron Temin*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Voice-of-the-Offense.md)
+- **Autonomous Collaborative Control for Resilient Cyber Defense(ACCORD)**, by *Scott Alexander*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Autonomous-Collaborative-Control-for-Resilent-Cyber-Defense(ACCIRD).md)
+- **Scenarios for Mission Assurance in the Clouds**, by *Kendra Moore*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Scenarios-for-Misson-Assurance-in-the-Clouds.md)
+- **Cyber Network Defense Thrusts Tested at the JIOR**, by *Kevin Jordan*, [[Summary]](https://github.com/hxwang/Seminar/blob/master/MRC-2014-Sep/Cyber-Network-Defense-Thrusts-Tested-at-the-JIOR.md)
+

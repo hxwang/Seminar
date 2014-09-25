@@ -1,7 +1,8 @@
 Bridging the Security Gap with Decentralized Information Flow Control
 ---
 
-by *David Mazieres*, Stanforad University
+- by *David Mazieres*, Stanforad University
+- [Reference](http://www.amitlevy.com/papers/hails-crash2012.pdf)
 
 
 ### Goal

@@ -12,15 +12,15 @@ CANDOR: Clean-slate System Integrity using Selective Redo
 - Bug-finding
 	- KINT(OSDI'12), STACK(SOSP'13): static analysis tool for finding integer overflow
 - Formal verification
-	- Jitk(OSDI'14): formally verfied linux seccomp security mechanism
+	- Jitk(OSDI'14): formally verified linux seccomp security mechanism
 
 - Encrypt computation
-	- VersSum(CCS'14): efficiently verfying outsourced computations
+	- VersSum(CCS'14): efficiently verifying outsourced computations
 	- Ascend: using trusted hardware to encrypt data
 
 ### Ascend Processor: Privacy in the cloud
 - Structure
-	- entrypt the data, send to cloud
+	- encrypt the data, send to cloud
 	- get encrypted result back
 - Challenge
 	- the processor in the cloud could be malicious
@@ -43,8 +43,8 @@ CANDOR: Clean-slate System Integrity using Selective Redo
 - ...
 
 ### Obfuscating Memory
-- any two sequence of memory access should be indigtinguishable
-- minimize changes to eixsting architecture
+- any two sequence of memory access should be indistinguishable
+- minimize changes to existing architecture
 
 
 ### Oblivious RAM
@@ -65,13 +65,13 @@ CANDOR: Clean-slate System Integrity using Selective Redo
 - implementation: use verilog
 
 ### ORAM in Ascend
-- very storng security gurantees
+- very strong security guarantees
 - significant overheads
 
 ### Malicious Server
 - it could modify data etc, thus we need to add integrity
 - solution
 	- Option 1: Merkle Tree, but expensive, because hash chaining proportional to tree height, need to verified everything on the path
-	- we can use acecss counter instead of leaf label
+	- we can use access counter instead of leaf label
 
 	

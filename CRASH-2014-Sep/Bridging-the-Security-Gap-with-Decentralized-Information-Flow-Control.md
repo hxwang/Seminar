@@ -15,7 +15,7 @@ Bridging the Security Gap with Decentralized Information Flow Control
 	- associate policy with data
 	- need to rethink client-side security
 - Fact
-	- losts of functinalities is client-side
+	- lots of functionalities is client-side
 	
 
 ### Browser Security Architecture
@@ -26,9 +26,9 @@ Bridging the Security Gap with Decentralized Information Flow Control
 - CSP: disallow write
 - CORS: permit read
 - Example app: mint.com
-	- read-only personal finantial data
+	- read-only personal financial data
 - where the status-quo falls short
-	- cannot alow network acess and ensure security
+	- cannot allow network access and ensure security
 	- want: only reject when it looks at the pwd
 
 ### COWL browser
@@ -43,8 +43,8 @@ Bridging the Security Gap with Decentralized Information Flow Control
 - label-communication
 	- associate labels with message
 	- targets get "tainted" when they receive the message
-- priviledge
-	- ues priviledge to express trust
+- priviledges
+	- uses priviledges to express trust
 - improving the status quo
 	- use labels to confine it...
 

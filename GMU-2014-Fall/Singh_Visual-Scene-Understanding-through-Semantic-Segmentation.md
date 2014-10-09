@@ -1,7 +1,8 @@
 ## Visual Scene Understanding through Semantic Segmentation
 
 - info: 10/09/2014
-- speaker: Gautam Singh (Ph.D. Defense)
+- type: Ph.D. Defense
+- speaker: [Gautam Singh](http://cs.gmu.edu/~gsinghc/) 
 
 ### Intro
 - process of extracting semantic information from an image

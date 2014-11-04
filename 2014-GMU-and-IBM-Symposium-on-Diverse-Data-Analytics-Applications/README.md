@@ -12,7 +12,7 @@
 ### Talks
 | Title | Speaker| Organization| Rate|
 |:-------|:-------|:---------|:------|
-|[Connecting the Dots through the Discovery of Evidence, Hypotheses, and Arguments from Masses of Data]()|  *Gheorghe Tecuci*| George Mason University| |
+|[Connecting the Dots through the Discovery of Evidence, Hypotheses, and Arguments from Masses of Data](./file/Tecuci-Discover-Hypotheses.md)|  *Gheorghe Tecuci*| George Mason University| *|
 |[Using Advanced Analytics with Big Data in Federal/Healthcare]()|*Rashmi Mathur*| IBM| |
 |[Heterogeneous Architectures in 3D for Next Generation Big Data Server Platform]|*Houman Homayoun*| George Mason University| | 
 |[Applications of Advanced Analytics in a Large-Scale Performance Measurement Study]()|*Hua Li*|IBM| |

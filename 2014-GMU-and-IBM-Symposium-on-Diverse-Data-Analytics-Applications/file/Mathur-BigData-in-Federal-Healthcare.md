@@ -2,7 +2,6 @@
 
 - Speaker: Rashmi Mathur, IBM
 
-
 ### Systematic approach 
 - implement the CRoss Industry Standard Process for data mining(CRISP) for predictive modeling
 	- **business understanding**: identify and prioritize the goals of predictive modeling
@@ -57,6 +56,6 @@ social security administration: streamlining the disability application and revi
 - Problem
 	- how do we reduce the backlog of new disability applications that needed to be processed, `backlog`
 	- how do we improve the process for performing doctor reviews continuing disability review(CDR) which are expensive
-
+	
 ### My comments
-- learn how mechine learning applied in industry and their stand procedure of machine learning
+- learn how machine learning applied in industry and their stand procedure of machine learning

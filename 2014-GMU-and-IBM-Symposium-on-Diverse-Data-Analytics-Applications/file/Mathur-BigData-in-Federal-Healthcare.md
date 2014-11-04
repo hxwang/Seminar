@@ -58,4 +58,4 @@ social security administration: streamlining the disability application and revi
 	- how do we improve the process for performing doctor reviews continuing disability review(CDR) which are expensive
 	
 ### My comments
-- learn how machine learning applied in industry and their stand procedure of machine learning
+- learn how machine learning applied in industry and their standard procedure of machine learning

@@ -25,4 +25,8 @@
 - Disciple-CD: disciple assistant for connecting the dots
 - COGENT: cognitive agent for cogent analysis
 	
-
+### Cyber insider threat discovery and analysis
+- e.g., some insiders access to the computer
+	- formulate hypotheses
+	- find probability of each hypotheses
+	- some observation

@@ -20,4 +20,3 @@
 |[Using Advanced Analytics with Big Data in Federal/Healthcare](./file/Mathur-BigData-in-Federal-Healthcare.md)|*Rashmi Mathur*| IBM|** |
 |[Heterogeneous Architectures in 3D for Next Generation Big Data Server Platform](./file/Homayoun-3D-BigData.md)|*Houman Homayoun*| George Mason University| ***| 
 |[Applications of Advanced Analytics in a Large-Scale Performance Measurement Study](./file/Ni-Large-scale-performance-study.md)|*Hua Ni*|IBM|* |
-|[Predicting Household Demographics with Cable TV Viewing Data]()|Michael Schader| George Mason University| |

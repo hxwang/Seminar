@@ -1,6 +1,6 @@
 ## Connecting the Dots through the Discovery of Evidence, Hypotheses, and Arguments from Masses of Data
 
-- Author: Gheorghe Tecuci, George Mason University
+- Speaker: Gheorghe Tecuci, George Mason University
 
 ### Learning
 - Learn the knowledge of subject matter experts

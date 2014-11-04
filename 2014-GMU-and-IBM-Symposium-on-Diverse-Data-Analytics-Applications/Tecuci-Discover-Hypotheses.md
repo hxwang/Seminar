@@ -16,5 +16,13 @@
 - forensic analysis: this event already happen.
 	- discover participants, possible related locations and events 
 	
-### Discovery of hypotheses
-- 
+### Hypotheses
+- Discovery of hypotheses
+- Analyze of hypotheses
+	- what's the probability that this hypotheses is true?
+
+### Tools
+- Disciple-CD: disciple assistant for connecting the dots
+- COGENT: cognitive agent for cogent analysis
+	
+

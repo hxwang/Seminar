@@ -2,6 +2,7 @@
 
 ### Rate Standard
 |Rate| Meaning|
+|:----|:------|
 |*****| very helpful to research|
 |****| helpful to research, or learn much knowledge|
 |***| learn some knowledge|

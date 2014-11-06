@@ -11,7 +11,8 @@ energy harvesting methods. I also discuss future applications in areas such as s
 - IoT
 	- global address: all devices are addressable and routable, globally reachable
 	
-### IOT Overview
+### IOT 
+##### IOT Overview 
 - e.g., smart grid
 	- enhance the real time prices for consumers
 	- users can control devices
@@ -33,7 +34,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 		- sensing things all the time
 
 	
-### How to guarantee performance
+##### How to guarantee performance
 - research
 	- invent precise system models to develop algorithms and implement protocols that have provable performance bounds
 - Pre-planed deployments
@@ -50,7 +51,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 			- seems not
 			
 
-### Example Solution: CREST
+##### Example Solution: CREST
 - Intro
 	- CREST: coordinated routing for epoch-based stable tree 
 	- design as an intentionally-incomplete LLN control plane overlay
@@ -63,6 +64,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 
 
 ### Energy Harvesting
+##### Overview
 - types of objectives
 	- preserver energy neutrality
 	- maximize aggregate energy reserves
@@ -75,7 +77,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 		- radio is the major source of power consumption
 		- DMS adjusts radio modulation to save energy
 
-### Basic Task Model
+##### Basic Task Model
 - a certain set of activities must occur by the end of each frame
 	- workloads can be bounded worst-case or probabilistically
 	- communication workload: M (bits)
@@ -85,11 +87,11 @@ energy harvesting methods. I also discuss future applications in areas such as s
 	- objective: maximize the minimum energy level over any node in the network
 	- &Tau_i;:energy level at the node
 
-### End-to-end Model
+##### End-to-end Model
 - epoch-based control
 - two types of LLN mode
 
-### Performance Evaluation
+##### Performance Evaluation
 - routine versus emergency response in a water distribution system
 	- compare three energy management schemes
 		- CHASS: centralized solution
@@ -103,12 +105,13 @@ energy harvesting methods. I also discuss future applications in areas such as s
 		
 
 ### AD HOC Systems
+##### AD HOC Overview
 - rapidly deployed multi-room intrusion detection
 	- required indoor, GPS-less relative localization to be incorporated into the routing and reporting protocol
 - road monitoring system
 	- required large linear self-healing network, persistent unattended operation
 
-### Basic AD HOC Issues
+##### Basic AD HOC Issues
 - implementing an IP protocol stack is a really good idea
 - unattended sensing and processing for meaningful result is hard in an IOT node
 - Geo-location is critical
@@ -117,11 +120,11 @@ energy harvesting methods. I also discuss future applications in areas such as s
 - disruption-tolerant is a good idea
 
  
-### What if you eliminated most network management
+##### What if you eliminated most network management
 - suppose you only require time synchronization
 - each node generates its unique transmission schedule based on a symbol's pattern in a common **latin square** shared by different communication nodes
 
-### Mobile Ad-HOC IOT Systems
+##### Mobile Ad-HOC IOT Systems
 - robotic-LLN cooperation
 - unattended autonomous vehicles
 	- security applications

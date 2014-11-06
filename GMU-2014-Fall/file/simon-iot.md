@@ -11,7 +11,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 - IoT
 	- global address: all devices are addressable and routable, globally reachable
 	
-### IOT applicaiton
+### IOT Overview
 - e.g., smart grid
 	- enhance the real time prices for consumers
 	- users can control devices
@@ -44,6 +44,12 @@ energy harvesting methods. I also discuss future applications in areas such as s
 		- falls into a class of routing algorithms known as "gradient'
 		- 
 	- routes can change at any point
+	- Node break Problem
+		- Node break
+			- nodes fails, perhaps temporately, must form new tree
+		- In tree-based, can we have multiple channel
+			- seems not
+			
 
 ### Example Solution: CREST
 - Intro
@@ -55,11 +61,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 	- designed RADIATE on IPv6-based LLN semi-reliable wireless broadcasting
 	- uses automatic randomized rebroadcast with selective cancellation
 
-### Node break Problem
-- Node break
-	- nodes fails, perhaps temporately, must form new tree
-- In tree-based, can we have multiple channel
-	- seems not
+
 
 ### Energy Harvesting
 - types of objectives
@@ -100,9 +102,6 @@ energy harvesting methods. I also discuss future applications in areas such as s
 		- area instant attack
 		- spreading attack
 		
-### Problem: Utility Maximization
-- IoT application utility may depend on application's reporting resolution
-
 
 ### AD HOC Systems
 - rapidly deployed multi-room intrusion detection
@@ -137,7 +136,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 
 ### Question
 - in the emergency mode
-	- need to transfer more data, i.e., the workloads increase
+	- need to transfer more datas, i.e., the workloads increase
 	- there has some central control
 
 

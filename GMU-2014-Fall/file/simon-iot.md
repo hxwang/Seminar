@@ -42,7 +42,6 @@ energy harvesting methods. I also discuss future applications in areas such as s
 	- problem: rapidly changing routing trees break coordinated multi-hop performance control
 	- example: current IPv6 LLn standard is called RPL
 		- falls into a class of routing algorithms known as "gradient'
-		- 
 	- routes can change at any point
 	- Node break Problem
 		- Node break

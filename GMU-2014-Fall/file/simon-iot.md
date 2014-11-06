@@ -11,7 +11,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 - IoT
 	- global address: all devices are addressable and routable, globally reachable
 	
-### IOT 
+### Topic 1: IOT 
 ##### IOT Overview 
 - e.g., smart grid
 	- enhance the real time prices for consumers
@@ -63,7 +63,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 
 
 
-### Energy Harvesting
+### Topic 2: Energy Harvesting
 ##### Overview
 - types of objectives
 	- preserver energy neutrality
@@ -104,7 +104,7 @@ energy harvesting methods. I also discuss future applications in areas such as s
 		- spreading attack
 		
 
-### AD HOC Systems
+### Topic 3: AD HOC Systems
 ##### AD HOC Overview
 - rapidly deployed multi-room intrusion detection
 	- required indoor, GPS-less relative localization to be incorporated into the routing and reporting protocol

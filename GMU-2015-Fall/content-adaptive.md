@@ -39,3 +39,8 @@
 - model
   - luminance v.s. energy consumption
 
+### Conclusion
+- dim the light level 
+- build a decision model to predict the power savings resulting from the CAD
+- 83.4% vedio can save power
+

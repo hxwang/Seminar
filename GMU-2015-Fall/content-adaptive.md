@@ -1,6 +1,7 @@
 ## Content-Adaptive Display Power Saving in Internet Mobile Streaming
 
 - Mengbai Xiao
+- Date: 3/6/2015
 
 ### Intro
 - Power during playback

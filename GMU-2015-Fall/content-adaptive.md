@@ -28,3 +28,14 @@
     - hardware
 - GPU, pixel ...
 
+### Luminance compensation
+- YUV-RGB conversion is reuqired
+- use GPU rather than CPU
+  - GPU is better at computation
+  - however, the GPU is also energy consuming
+
+### Implementation
+- use android app
+- model
+  - luminance v.s. energy consumption
+

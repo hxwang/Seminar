@@ -47,4 +47,7 @@
 ### Proof
 - Dealing with the proof
   - create trapdoor by changing the setup and encryption
+- Is it safe to run two cryptopographic programs at the same time
+  - if not concurrency, then  win at least 1, or draw both
+  - concurrentcy makes this impossible
   

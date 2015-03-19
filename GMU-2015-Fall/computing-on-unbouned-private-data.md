@@ -1,5 +1,8 @@
 ## Computing on unbounded private data
 
+- Date: 3/19/2015
+- Speaker:
+
 ### Intro
 - Benefits for cloud data, and the privacy concern
   - Cloud: losing privacy
@@ -29,7 +32,15 @@
 - Encrypt
 - KeyGen: takes an input of program M -> give a new secret key
 
-### How to define security
+### Technic
 - Goal: ensure that cloud learn nothing no more than M(x)
-
+- Approach
+  - blue box: cloud can not tell whether it is blue cloud for x or y
+  - random sampling
+    - bootstraping
+  - two key idea
+    - have two public keys
+    - encrypt twice
+    - proved correctness
+    
 

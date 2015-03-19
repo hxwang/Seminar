@@ -44,3 +44,7 @@
     - proved correctness
     
 
+### Proof
+- Dealing with the proof
+  - create trapdoor by changing the setup and encryption
+  

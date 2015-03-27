@@ -73,3 +73,20 @@
   - CPU active low-power modes (DVFS) or ACPI "P-states"
   - CPU idle low-power states (gating) or ACPI
   - system idle low-power states or ACPI "s-states"
+- Improving power proportional to its utilization
+  - proportionality has improved markedly due to CPUs servers now consume much less in the 10-50% range
+  - the lower power states help improve proportionality
+
+### One future direction
+- reduce tail latency via parallelism
+- dc/grid interaction, demand response
+  - in peak time, the utility operator will urge the dc to consume less energy. 
+  - cotech?
+- energy coursing, including renewables
+  - renewable are not constant, defer load, scale execution
+- approximate computing
+  - produce a lot of data, the computation does not need to be precise
+  - knowing the rough ranking is enough, thus this can save energy
+  - can speed up 
+- accelerators: GPUs, FPGAs, etc
+- reducing high-percentile("tail") latencies of servicesh

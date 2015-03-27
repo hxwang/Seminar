@@ -55,4 +55,9 @@
   - temperatre of the cold aisle at 20c or below
   - significant potential for hot air recirculation
   - the cooling infrastructure consumes a lot of energy
-- 
+- Three key advances in cooling
+  - higher cold aisle tempretures
+  - hot aisle containment to prevent recirculation
+  - "free" cooling: user outside air in certain climates
+- Result: larger DC operatures now achieve yearly PUEs 1.0-1.20
+

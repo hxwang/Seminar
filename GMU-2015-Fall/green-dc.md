@@ -70,3 +70,6 @@
   - transition overheads in terms of performance and energy
   - performance at the lower speed
 - Academia and industry have proposed many states
+  - CPU active low-power modes (DVFS) or ACPI "P-states"
+  - CPU idle low-power states (gating) or ACPI
+  - system idle low-power states or ACPI "s-states"

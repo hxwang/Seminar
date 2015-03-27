@@ -95,4 +95,7 @@
 - it determines the machines you need
   - if you can use fewer servers to achieve the same performance, then you can save energy
 - 99% percentile latency
+  - improvement on latency of 20% percent, reduce server numbers by half
+- reducing tail latency by parallelism
+  - can use intra-request parallelism: reduce latency, but may overload the system
   

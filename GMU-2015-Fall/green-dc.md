@@ -98,4 +98,14 @@
   - improvement on latency of 20% percent, reduce server numbers by half
 - reducing tail latency by parallelism
   - can use intra-request parallelism: reduce latency, but may overload the system
-  
+  - design few-to-many parallelism
+    - parallel the long request more severesly
+    - add parallism at fixed interval, but no fixed period is available
+      - short period is good at low load
+      - long period is good at high load
+  - My idea: consider together with the SIGCOMM paper which start with full parallelism and them shrink
+    - we can start from a mid point
+  - comparison
+    - SEQ: all request use 1 thread
+    - fix-2:
+    - FM: 

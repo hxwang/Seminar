@@ -113,3 +113,6 @@
     - fm stop parallelsim when the effects will not be improved
     - the number is preprofiles, it is 4, only 4 threads???
   
+### Conclusion
+- data center consumes massive amount of energy
+- reducing tail latency via parallelism 

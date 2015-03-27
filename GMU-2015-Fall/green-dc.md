@@ -109,3 +109,5 @@
     - SEQ: all request use 1 thread
     - fix-2:
     - FM: 
+  - assume idle consumption is: 25%
+  

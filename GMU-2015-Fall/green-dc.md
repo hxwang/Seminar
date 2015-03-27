@@ -39,3 +39,13 @@
   - dram: 12%
   - networking: 5%
   - misc: 27%
+- what we can see
+  - as technology involves, the key tarets for optimization may change. the CPU dominate right now.
+- where does the money go
+  - server: 63%
+  - networking equipment: 6%
+  - power distribution and cooling; 17%
+  - other infrastructure: 4%
+  - energy: 10%
+- Thus we can see that energy is significant expense (180$) but pruchasing servers dominate.
+  - fewer servers reduce energy cost

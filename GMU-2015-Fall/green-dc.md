@@ -110,4 +110,6 @@
     - fix-2:
     - FM: 
   - assume idle consumption is: 25%
+    - fm stop parallelsim when the effects will not be improved
+    - the number is preprofiles, it is 4, only 4 threads???
   

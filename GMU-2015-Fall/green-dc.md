@@ -49,3 +49,10 @@
   - energy: 10%
 - Thus we can see that energy is significant expense (180$) but pruchasing servers dominate.
   - fewer servers reduce energy cost
+
+### Past and present techniques for greening DC
+- Conventional DC cooling: cold/hot aisles
+  - temperatre of the cold aisle at 20c or below
+  - significant potential for hot air recirculation
+  - the cooling infrastructure consumes a lot of energy
+- 

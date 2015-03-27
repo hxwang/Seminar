@@ -60,4 +60,13 @@
   - hot aisle containment to prevent recirculation
   - "free" cooling: user outside air in certain climates
 - Result: larger DC operatures now achieve yearly PUEs 1.0-1.20
+- free cooling; no water loop, no chiller
 
+### Servers
+- Leveraging lower power states
+  - turning devices off: idle low-power states
+  - slowing devices down: active low-power states
+- Main concerns
+  - transition overheads in terms of performance and energy
+  - performance at the lower speed
+- Academia and industry have proposed many states

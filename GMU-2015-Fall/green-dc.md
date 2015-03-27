@@ -90,3 +90,9 @@
   - can speed up 
 - accelerators: GPUs, FPGAs, etc
 - reducing high-percentile("tail") latencies of servicesh
+
+### Reducing tail lantency
+- it determines the machines you need
+  - if you can use fewer servers to achieve the same performance, then you can save energy
+- 99% percentile latency
+  

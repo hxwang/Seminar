@@ -50,5 +50,8 @@
 - Speaker: Mengbai Xiao
 - Time: 03/06/2015
 - Summary: In this lecture, the speaker presents his work on deisgining and implementation of content adpative display power saving mechanisms for reducing power consumption on mobile device. The main idea is to tune the backlight based on GPU rather than CPU, which allows them to design more complex algorithms. They designed an algorithm based on dynamic programming. 
+- Their motivation comes from the observation that the display consumes 68% power during the playback, and most of the energy is consumed by back light.
+- Their technique is based on the fact that by backlight scaling and combined RGB values with the tuned backlight, the output could be the same, while the power consumption reduced.
+
 - They implement the designed mechanism on android and experiment with more than 470 randomly selected YouTube Vedio clips. 
 - The results showed that the deisgned mechanism can reduce energy consumption which not affect users' satisfaction.

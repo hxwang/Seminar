@@ -54,5 +54,7 @@
 - Their technique is based on the fact that by backlight scaling and combined RGB values with the tuned backlight, the output could be the same, while the power consumption reduced.
 - In their implementaion, YUV-RGB conversion is reuqired. They use GPU rather than CPU as GPU is better at computation.
 However,  GPU is also energy consuming.
-- They implement the designed mechanism on android and experiment with more than 470 randomly selected YouTube Vedio clips. 
-- The results showed that the deisgned mechanism can reduce energy consumption which not affect users' satisfaction.
+- They build a 
+- They implement the designed mechanism on android and experiment with more than 470 randomly selected YouTube Vedio clips.
+- dim the light a decision model to predict the power savings resulting from the CAD.
+- The results showed that the deisgned mechanism can reduce energy consumption which not affect users' satisfaction. In their experiments, 83.4% vedio can save power.

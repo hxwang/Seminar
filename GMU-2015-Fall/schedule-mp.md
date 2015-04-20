@@ -51,3 +51,6 @@
     - delay device-core
     - load independent queueing device memory
     - load independent queuing device disk
+- measuring memory access time
+  - user linux tool "perf" to obtain the PMU values
+  - concentrateed on "back end stakk percentage"

@@ -18,3 +18,6 @@
   - datanode
   - tasktracker
 
+### Problem Statement
+- current modeling teechniques, whichdo not consider node contention for resources, do not allow one to perform effective scheduling of mult-task jobs running on large computer clusters
+

@@ -29,3 +29,8 @@
   - model multi-core machines based on memoery contention
   - algorithm for calculating execution times for jobs streams based on finite time interval analysis
   
+## Related work
+- on map-reduce job modeling
+- on multi-core CPU performance
+- on deterministic execution simulation
+

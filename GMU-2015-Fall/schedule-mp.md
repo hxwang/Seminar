@@ -34,3 +34,7 @@
 - on multi-core CPU performance
 - on deterministic execution simulation
 
+### Analytic Models for Single Mapreduce
+- queuing model
+- m map task, c is concurrency, 
+- jvm takes sometime to start, shutdown

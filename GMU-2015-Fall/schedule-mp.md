@@ -38,3 +38,16 @@
 - queuing model
 - m map task, c is concurrency, 
 - jvm takes sometime to start, shutdown
+
+### Modeling of multi-core machines
+- share memory
+  - with memory access, it is like linear, it means some cores are wastered
+  - some tasks are waiting to access memory
+- two models
+  - application-level model
+    - load independent queueing device multi core CPU
+    - load independent queuing device disk
+  - memory-contention model
+    - delay device-core
+    - load independent queueing device memory
+    - load independent queuing device disk

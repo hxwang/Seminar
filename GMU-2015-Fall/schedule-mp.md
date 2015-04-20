@@ -21,3 +21,11 @@
 ### Problem Statement
 - current modeling teechniques, whichdo not consider node contention for resources, do not allow one to perform effective scheduling of mult-task jobs running on large computer clusters
 
+### Thesis Statement
+- Is it possible to design and implement a dynamic cluster scheduler that
+  - perform modeling and prediction
+- Contribution
+  - mapreduce jobsmodeling based on queueing network
+  - model multi-core machines based on memoery contention
+  - algorithm for calculating execution times for jobs streams based on finite time interval analysis
+  

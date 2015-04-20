@@ -11,4 +11,10 @@
 - lack of robust aseessment and validation of cluster job schedulers
 - lack of accurate prediction of job completion time
 
+### System Arch
+- hadoop head node
+  - namenode
+- hadoop compute node
+  - datanode
+  - tasktracker
 

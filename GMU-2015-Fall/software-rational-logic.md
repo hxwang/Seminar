@@ -58,4 +58,19 @@
     - ICC-Bench
   - compare on: true positive, false positive, false negative
   - conclusion: CONVERT has better results compared with 
+- experiment with practical apps
+  - 60% positive
+- compare on model checking time
+  - check hundreds of components in minutes
+- analyze scalability: better scalability compared with ...
+- CONVERT in practise
+  
+### Analysis of the anroid permission protocol for design flaws
+- software applications increasing use application development frameworks
+- frameworks impose certain protocols on the applications that are developed on top of them
+- framework protocol example: custom permissions
+  - defines: "AddrBookRead" permission
+  - protection level: signature
+  - uses the permission to protect its ...
+  
 

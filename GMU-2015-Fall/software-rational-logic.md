@@ -84,4 +84,16 @@
     - application: set permission, 
     - permission: protection level
     - signature permission
-  
+- subset of android permission model system behavior
+  - invoke
+  - install
+  - uninstall
+- nounauthorization access
+- bounded exhausitive analysis using Alloy analyzer
+  - concept specifications
+  - operation specifictions
+  - goal assertion
+- analysis results
+  - custom permission vulnerability
+  - URI permission vulnerability
+  - permission re-delegation vulnerability

@@ -26,4 +26,17 @@
 - anroid permission model
   - install time permission request
   - internet, acount, phone call, gps, storage
+- inadequare permission model
+  - enforcement of permission at the granularity of individual apps
+  - not sufficient
+- inter-app vulnerability example
+  - priviledge escalation
+  - conclude permissions
+  - serveral decomposition security issue
+- naive approach
+  - combined apps
+  - program analysis: scalability issues
+- convert approach: composition analysis
+  - program analysis
+  - formal analyzer
 

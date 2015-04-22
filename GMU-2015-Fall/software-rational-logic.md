@@ -40,3 +40,16 @@
   - program analysis
   - formal analyzer
 
+### Program analysis
+- four step approach to extract information for each app
+  - extract the principal entities and permissions for the manifest file
+  - identify intents and intent filters that are latent application bytecode
+  - determine the event-driven behavior of app
+  - identify the vulnerable aths with each component
+- specificaiton of apps in Alloy
+  - formal analyzer
+  - vulnerability instances
+  - vulnerability assertion
+- checking assertion using Alloy Analyzer
+- Alloy analyzer finds a counerexample
+

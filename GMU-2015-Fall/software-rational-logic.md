@@ -1,5 +1,6 @@
 ## Practical, Automatic Analysis of Mobile Software using Rational Analysis
 
+- Speaker: Hamid Bagheri
 - Date: 4/22/2015
 
 ### Summary

@@ -72,5 +72,16 @@
   - defines: "AddrBookRead" permission
   - protection level: signature
   - uses the permission to protect its ...
+- Challenge
+  - sysematic approach for analyzing protocols
+- Insights
+  - formal analysis is good at analyzing network protocol, but is weak in analyzing framework protocol
+- android permission model
+  - basic concepts: 
+- subset of android permisson model 
+  - basic elements
+    - device: builtiinpermission, custome permission
+    - application: set permission, 
+    - permission: protection level
+    - signature permission
   
-

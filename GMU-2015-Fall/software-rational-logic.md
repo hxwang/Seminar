@@ -93,7 +93,31 @@
   - concept specifications
   - operation specifictions
   - goal assertion
-- analysis results
-  - custom permission vulnerability
-  - URI permission vulnerability
-  - permission re-delegation vulnerability
+
+### analysis results
+- custom permission vulnerability
+  - Step 1: malapp is installed, define addrbookread permission, protection level: normal
+  - Step 2: vicapp is installed, define addrbookread permission, protection level: signature, use the permission 
+  - then malapp is able to access the victime
+- URI permission vulnerability
+- permission re-delegation vulnerability
+
+### Experiments
+- Apps
+  - Goole play, F-driod
+  - 62.43% use custome permission
+
+### Conclusion and future work
+- beyond vulnerability detection
+  - practively generate specification of possible exploits
+  - e.g., intent hijacking, ....
+  - hypothesis what kind of attacking is possible
+  - create security pociliers that are enforced at runtime
+  - apply them as perventive measures to guard against yet unknown malicious behavior
+  - allow us to detect zero-day attack
+- beyond android
+  - ideas can be generalized to app ecosystems
+- tradeoff analysis
+  - analyis of android security vulnerabilities
+  - tradeoff analyis and systhesis
+  

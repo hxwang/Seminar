@@ -1,4 +1,7 @@
-## 
+## Greening Data Centers: Past, Present and Future
+
+- Speaker: Ricardo Bianchini
+- Date: 03/27/2015
 
 ###　Main characteristic of a DC
 - what is dc

@@ -52,4 +52,10 @@
   - vulnerability assertion
 - checking assertion using Alloy Analyzer
 - Alloy analyzer finds a counerexample
+- how does the accuracy of CONVERT compare to other tools
+  - bench mark
+    - DroidBench
+    - ICC-Bench
+  - compare on: true positive, false positive, false negative
+  - conclusion: CONVERT has better results compared with 
 

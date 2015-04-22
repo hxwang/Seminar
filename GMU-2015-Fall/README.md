@@ -1,6 +1,7 @@
 ## Seminar
 
 - [schedule](http://cs.gmu.edu/~setia/seminar-list.html)
+- rate indicates relevance to my research, not quality of talk.
 
 ### Lectures
 | Title| Speaker| Date| Rate|

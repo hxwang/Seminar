@@ -25,6 +25,13 @@
 - SaaS require IaaS
 - IaaS requires migraiton
 
-
+### Live virtual machine migration
+- pages of the address of the virtual machine is copied when the VM is running
+- dyanmic migrate the dirty pages
+- advantage: very low downtime
+- optimal value of alpha
+  - non-linear optimizer decides alpha
+  - tradeoff between alpha and network utilization
+  - alpha is high, then long downtime, low network utilization
 
 

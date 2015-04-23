@@ -73,7 +73,17 @@
 - Heuristic solution
   - scaleupdown: repalce large with small
   - compare with optimal solution
+  
+### Related work
+- energy consumption
+- maximize revenue subject to constraints of quality guaranteee
 
+### Idea
+- take into account of the interation of vms
+- types of vms
+- reuse vms
+- dynamic pricing model
+- define service level agreement
 
 
   

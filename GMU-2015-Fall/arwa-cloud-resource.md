@@ -62,8 +62,9 @@
 - solution: build a tree where the edge is the communication strength
 - Experiments: compare with OPT
 - availability constraints: if a machine is down, then the service may down
+  - there is a tradeoff between the revenue and availability
 
-###
+
 
 
   

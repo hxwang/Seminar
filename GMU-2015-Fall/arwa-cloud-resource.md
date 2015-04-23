@@ -55,10 +55,15 @@
 - solution: do not colocate
   - users pays more if the cmmunication is better
 - heuristic solutions
-  - algorithm 1: allocate as close as possible
+  - algorithm 1: allocate as close as possible, depending on communication strength
   - alg 2: take into account of de-allocate of some virtual machines
   - alg 3: 
+  - Advance alg: consider deallocation, using climb hill
 - solution: build a tree where the edge is the communication strength
+- Experiments: compare with OPT
+- availability constraints: if a machine is down, then the service may down
+
+###
 
 
   

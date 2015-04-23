@@ -33,5 +33,17 @@
   - non-linear optimizer decides alpha
   - tradeoff between alpha and network utilization
   - alpha is high, then long downtime, low network utilization
+- heuristic solution to this problem
 
+### Problem Description
+- The cloud provider has to make an optimal decision where to send the request
+- constraints
+  - SLA constraints: weighted average of ...
+- Heuristic search
+  - hill-climbing, determine neighborhood
+  - reuse virtual machine that is already in the cloud
+- Better revenue than Best-fit strategy
+
+
+  
 

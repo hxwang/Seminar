@@ -44,7 +44,7 @@
   - reuse virtual machine that is already in the cloud
 - Better revenue than Best-fit strategy
 
-### Cloud
+### Cloud Virtual Machine Allocation
 - two virtual machine in the same physical machine
   - take into account of commmunication costs
   - communication strength 

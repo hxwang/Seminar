@@ -44,6 +44,14 @@
   - reuse virtual machine that is already in the cloud
 - Better revenue than Best-fit strategy
 
+### Cloud
+- two virtual machine in the same physical machine
+  - take into account of commmunication costs
+  - communication strength 
+- problem statement: 
+- consumers make request of a group of virtual mahines
+- dynamic find the allocation of virutla machines to maxmize the cloud provider revenue
+
 
   
 

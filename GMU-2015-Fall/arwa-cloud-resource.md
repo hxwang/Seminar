@@ -64,6 +64,15 @@
 - availability constraints: if a machine is down, then the service may down
   - there is a tradeoff between the revenue and availability
 
+### SaaS
+- Model: customer can subsribe
+- Problem: the optimal type and number of virtual machines to run the request from customers
+- Model
+  - cost: p_i * b_i
+  - constraint: running time
+- Heuristic solution
+  - scaleupdown: repalce large with small
+  - compare with optimal solution
 
 
 

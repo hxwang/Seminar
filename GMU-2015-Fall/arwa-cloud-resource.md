@@ -85,6 +85,8 @@
 - dynamic pricing model
 - define service level agreement
 
+### Experiments
+- workload: Poisson distribution
 
   
 

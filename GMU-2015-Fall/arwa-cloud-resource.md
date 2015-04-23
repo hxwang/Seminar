@@ -91,4 +91,5 @@
 - workload: Poisson distribution
 
   
-
+### Summary
+In this talk, the speaker introduces how to automatically and optimally or near-optimally allocate the resource in the cloud infrastructure in order to maximize revenue while meeting the QoS requirements.

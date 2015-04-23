@@ -49,7 +49,7 @@
   - take into account of commmunication costs
   - communication strength 
 - problem statement: consumers arrive at the server with number of virutla machines, comunication of vms, types of vms
-- proble model; consider linear revenue and exponential revenue model
+- proble model: consider linear revenue and exponential revenue model
 - consumers make request of a group of virtual mahines
 - dynamic find the allocation of virutla machines to maxmize the cloud provider revenue
 - solution: do not colocate
@@ -57,7 +57,8 @@
 - heuristic solutions
   - algorithm 1: allocate as close as possible
   - alg 2: take into account of de-allocate of some virtual machines
-  - alg 3: build a maximum spanning tree
+  - alg 3: 
+- solution: build a tree where the edge is the communication strength
 
 
   

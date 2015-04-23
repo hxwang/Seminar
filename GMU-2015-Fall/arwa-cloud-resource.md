@@ -84,6 +84,8 @@
 - reuse vms
 - dynamic pricing model
 - define service level agreement
+- resource allocation in cloud data center: fair resource share?
+
 
 ### Experiments
 - workload: Poisson distribution

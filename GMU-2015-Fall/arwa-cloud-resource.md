@@ -53,6 +53,11 @@
 - consumers make request of a group of virtual mahines
 - dynamic find the allocation of virutla machines to maxmize the cloud provider revenue
 - solution: do not colocate
+  - users pays more if the cmmunication is better
+- heuristic solutions
+  - algorithm 1: allocate as close as possible
+  - alg 2: take into account of de-allocate of some virtual machines
+  - alg 3: build a maximum spanning tree
 
 
   

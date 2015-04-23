@@ -48,9 +48,11 @@
 - two virtual machine in the same physical machine
   - take into account of commmunication costs
   - communication strength 
-- problem statement: 
+- problem statement: consumers arrive at the server with number of virutla machines, comunication of vms, types of vms
+- proble model; consider linear revenue and exponential revenue model
 - consumers make request of a group of virtual mahines
 - dynamic find the allocation of virutla machines to maxmize the cloud provider revenue
+- solution: do not colocate
 
 
   

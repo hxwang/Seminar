@@ -87,8 +87,14 @@
 - resource allocation in cloud data center: fair resource share?
 
 
-### Experiments
+### More
 - workload: Poisson distribution
+- service agreements: response time, recover time
+  - how to allocate resources in cloud
+- design hyperviser for simulation
+  - different virutalization
+  - container technology: have no virtualization
+  
 
   
 ### Summary

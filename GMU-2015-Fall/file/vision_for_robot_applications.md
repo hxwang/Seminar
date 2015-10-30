@@ -22,7 +22,18 @@
 
 ### Applications
 - robot to clean, organize the room
+- depth sensor
+- robot aseembly
+- healthcare
 
 ### Resources
-- 
+- Google 3D warehouse (about 2.5m objects)
+- 3D model in Ikea
+
+### Simplify model to track objects
+- some edges are not important
+  - remove the edges to make model simple
+- combine key points and edge features
+  - effective number of particle size
+  
 

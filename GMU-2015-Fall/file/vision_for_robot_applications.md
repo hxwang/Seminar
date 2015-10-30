@@ -41,3 +41,7 @@
 - cloud-based services for sharing of knowledge
 - systems that collaborate with people
 - the next generation of robotics will be driven by software rather than tradtional hardware
+
+### Questions
+- Q: How to recognize objects
+  - A: preference location + gausian distribution

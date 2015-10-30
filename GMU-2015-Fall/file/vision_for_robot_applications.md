@@ -36,4 +36,8 @@
 - combine key points and edge features
   - effective number of particle size
   
-
+### Summary
+- Vision for close loop control
+- cloud-based services for sharing of knowledge
+- systems that collaborate with people
+- the next generation of robotics will be driven by software rather than tradtional hardware

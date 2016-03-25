@@ -26,4 +26,16 @@
   - Triangles computation is expensive
     - # of triangles = sum(\lambda^3)/6
     - because of the skewness in S2
+  - This rule can be used to detect the anomalies
 
+### Fraud
+- Given: who like what page and when
+- Find: anomalies
+- Intuition
+  - same anomalies like the same page at the same time, considering bots
+- Mapreduce overview
+  - use hadoop to search many clusters in parallel
+    - start: with randomly seed
+    - update: set of pages, time, users
+    - end: until converge
+    

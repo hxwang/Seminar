@@ -15,4 +15,15 @@
   - tensors 
     - e.g., source, destination, time
 
+### Problems and Solution
+- S1: Facebook, friend-of-friend (FOF)
+  - Heterogeous number of FOF
+  - It is not right to assume everything is around the min
+- S2: Ax = \lambda x
+  - Power law in the distribution of values
+- S3: Triangle Laws
+  - double friends, triple triangles
+  - Triangles computation is expensive
+    - # of triangles = sum(\lambda^3)/6
+    - because of the skewness in S2
 

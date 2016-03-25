@@ -1,6 +1,7 @@
 ## Mining Large Graph: Patterns, Anomalies and Fraud Detection
 
 - Christos
+- Date: 03/25/2016
 
 ### Motivation
 - Network security
@@ -71,4 +72,9 @@
   - Recall: (SVD) matrix factorizaiton, find blocks
   - Tensor can do better, it can incorparate more dimensions
     - e.g., users, object, verb
-    
+
+
+### Conclusion
+- Big data can help find patterns 
+- Tensor is helpful in finding patterns
+

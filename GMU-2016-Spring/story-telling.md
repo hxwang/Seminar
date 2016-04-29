@@ -1,6 +1,6 @@
 ## Story telling
 
-- Speaker: 
+- Speaker: Maneesh Agrawala
 
 ### Face tracker
 - distance: special distance + facial distance

@@ -40,7 +40,11 @@
   - Do not cause service distruption
   - Carrided out using botnets
   - Need to run over an extended period of time
-
+- Defense
+  - Cryptographic puzzles
+  - CAPTCHA
+  - Anomaly detection based on request metrics
+    - number fo session, number of requests, etc. (Discuss with Xi)
 
 
 

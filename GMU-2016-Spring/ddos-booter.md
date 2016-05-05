@@ -61,7 +61,12 @@
     - Request rate: normally distributed
   - Focus on high number of requests
   - Experiments based on the same number of normal and malicious sequences
-
+- Results
+  - FPR 
+    - Normal users making an excessive number of requests
+    - 77 versus 7
+  - Malicious Users identified as normal (FNR)
+  
 
 
 

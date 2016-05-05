@@ -45,6 +45,25 @@
   - CAPTCHA
   - Anomaly detection based on request metrics
     - number fo session, number of requests, etc. (Discuss with Xi)
+- Anomaly detection
+  - assign relative cost value to user request
+  - use the sequence of request costs of benign users to learn the resoruce consumption behavior of normal users
+    - hidden semi markov model (HsMM)
+  - detect malicious users participating in EDoS attacks
+  - Questions? How to verify there is a trend for nomarl users? (Use CS GMU data)
+  
+### Experiment
+- Attack strategies
+  - Attack parameters
+    - Attack rate
+    - Requested resources
+  - Focused on high cost requests
+    - Request rate: normally distributed
+  - Focus on high number of requests
+  - Experiments based on the same number of normal and malicious sequences
+
+
+
 
 
 

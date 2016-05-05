@@ -14,3 +14,7 @@
 - Most frequently abused protocol for amplification
   - NTP: 603
   - DNS: 30x
+  - SSDP: 26x
+  
+
+

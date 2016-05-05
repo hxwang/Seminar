@@ -33,6 +33,13 @@
 - Randomizing the set of abused amplification per attack
 - Masquerading as a different booter service
 
+### EDoS
+- Motivation
+  - Target public cloud consumers
+  - The goal is to increase the cost for a victim
+  - Do not cause service distruption
+  - Carrided out using botnets
+  - Need to run over an extended period of time
 
 
 
